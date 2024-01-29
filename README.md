@@ -4,7 +4,8 @@
 ### Quality Check
 FastQC
 Installation
-```{conda create -n FastQC
+```{
+Conda create -n FastQC
 conda install -c bioconda fastqc
 }```
 ### Trimming 
