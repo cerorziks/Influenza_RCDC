@@ -1,1 +1,1 @@
-# Influenza_RCDC
+# Influenza Sequencing training: RCDC
