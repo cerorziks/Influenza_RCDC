@@ -3,8 +3,15 @@
 ## Quality Check and trimming
 ### Quality Check
 FastQC
+Installation
+```{conda create -n FastQC
+conda install -c bioconda fastqc
+}```
 ### Trimming 
 Trimmomatic 
 ### Assembly
-#### Reference Assemby for comparative genomics
-#### Denovo Assemby by SpAdes
+Assemble the fastq files using denovo assembler SpAdes and BLAST (blastn) contigs for reference Assemby.
+For denovo assembly: SpAdes
+For reference based assembly: BBtools
+
+
