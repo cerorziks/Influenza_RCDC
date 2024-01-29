@@ -4,8 +4,10 @@
 ### Quality Check
 FastQC
 Installation
+```{shell}
 Conda create -n FastQC
 conda install -c bioconda fastqc
+```{shell}
 ### Trimming 
 Trimmomatic 
 ### Assembly
