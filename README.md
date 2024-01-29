@@ -1,4 +1,4 @@
-# Influenza Sequencing training: RCDC (29 January 2024)
+# Influenza NGS Training: RCDC (29 January 2024)
 
 ## Quality Check and trimming
 ### Quality Check
