@@ -22,8 +22,9 @@ Run Trim-galore
 
 ### Assembly
 Assemble the fastq files using denovo assembler SpAdes and BLAST (blastn) contigs for reference Assemby.
-For denovo assembly: SpAdes
-For reference based assembly: BBMap
+1. For denovo assembly: SpAdes
 
-Mean Coverage:Minimum requirement for influenza 1000
+2. For reference based assembly: BBMap
+
+Note: Mean Coverage:Minimum requirement for influenza is 1000
 
